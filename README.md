@@ -26,4 +26,5 @@ Nechama Honigsberg N0583220278@gmail.com
 ### notes:
 
 1. I started the project on my computer and suddenly it didn't work so I took a computer from my friend (Miri Ehrenfeld)
-   therefore the last commit was uploaded from her username.
+   And I built the project on a base project she built before... (I deleted all the content and put in my own)
+   that's why there are files with an old creation date.
